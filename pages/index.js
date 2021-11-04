@@ -20,7 +20,7 @@ export default function Home() {
           See the video that made with camera I realy want to buy <b>Sony α7 IV</b>
         </p>
 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/l3dy970n1OM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/l3dy970n1OM" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
       </main>
 
       <footer className={styles.footer}>
